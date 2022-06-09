@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["principalAdminApp"],{d293:function(n,e,t){"use strict";t.r(e);var i=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("Principal")],1)},c=[],d=(t("d3b7"),t("3ca3"),t("ddb0"),{components:{Principal:function(){return t.e("chunk-2d222793").then(t.bind(null,"cf82"))}},data:function(){return{mode:"login"}},methods:{setMode:function(n){this.mode=n}}}),o=d,r=t("2877"),u=Object(r["a"])(o,i,c,!1,null,"b251d522",null);e["default"]=u.exports}}]);
+//# sourceMappingURL=principalAdminApp.2d576027.js.map
