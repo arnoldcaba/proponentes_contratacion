@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pqrsdf"],{b149:function(n,t,e){"use strict";e.r(t);var r=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v("pqrsdf main")])},u=[],a={data:function(){return{}}},s=a,c=e("2877"),i=Object(c["a"])(s,r,u,!1,null,null,null);t["default"]=i.exports}}]);
-//# sourceMappingURL=pqrsdf.6b8a8e0f.js.map

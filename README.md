@@ -1,1 +1,0 @@
-# proponentes_contratacion
